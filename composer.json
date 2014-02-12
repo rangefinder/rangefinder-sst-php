@@ -1,0 +1,18 @@
+{
+    "name": "dirk/rangefinder-sst",
+    "authors": [
+        {
+            "name": "Dirk Gadsden",
+            "email": "dirk@dirk.to"
+        }
+    ],
+    "description": "Server-side tracking for Rangefinder (rangefinderapp.com)",
+    "version": "0.1.0",
+    "require": {},
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Rangefinder\\": "src/"
+        }
+    }
+}
