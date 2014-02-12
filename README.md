@@ -1,4 +1,4 @@
-# Rangefinder Server-Side Tracking for PHP
+## Rangefinder Server-Side Tracking for PHP
 
 [Rangefinder](http://rangefinderapp.com/)'s server-side tracking allows you to record basic visitor information for every visitor, even those who block Rangefinder's client-side JavaScript. The client-side analytics fills in extra details, such as screen dimensions and page title, when/if it runs.
 
