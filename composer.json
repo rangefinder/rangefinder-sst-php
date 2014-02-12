@@ -6,10 +6,13 @@
             "email": "dirk@dirk.to"
         }
     ],
+    "type": "library",
+    "keywords": ["analytics", "api"],
+    "homepage": "https://github.com/rangefinder/rangefinder-sst-php",
     "description": "Server-side tracking for Rangefinder (rangefinderapp.com)",
     "version": "0.1.1",
     "require": {},
-    "license": "proprietary",
+    "license": "BSD-3-Clause",
     "autoload": {
         "classmap": ["src/Rangefinder/"]
     }
